@@ -1,0 +1,32 @@
+{
+  "name": "nodetodo",
+  "version": "1.0.0",
+  "description": "A simple todo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScottSanford/nodetodo.git"
+  },
+  "keywords": [
+    "todo",
+    "node",
+    "angular",
+    "express",
+    "mongodb"
+  ],
+  "author": "Scott Sanford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ScottSanford/nodetodo/issues"
+  },
+  "homepage": "https://github.com/ScottSanford/nodetodo#readme",
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.4"
+  }
+}
